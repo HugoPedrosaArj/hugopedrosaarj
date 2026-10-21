@@ -11,7 +11,6 @@
 - 🖥️ Practicando con **máquinas virtuales** (VirtualBox) y **Ubuntu Server**
 - 🌐 Aprendiendo a instalar y configurar servicios como **Apache2**
 - 🔐 Familiarizándome con **SSH** y el trabajo desde terminal
-- 🎮 Preparando mi propio **servidor de Minecraft**
 - 🏢 Creando un proyecto de digitalización para una empresa de Granada
 
 ## 🌱 Lo que quiero aprender
