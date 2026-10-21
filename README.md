@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu nombre]
+# 👋 ¡Hola! Soy Hugo Pedrosa Arjona
 
 🎓 Estudiante de **1º de ASIR** (Administración de Sistemas Informáticos en Red) en el **IES Zaidín Vergeles**, Granada.
 
