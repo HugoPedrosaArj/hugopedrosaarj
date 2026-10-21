@@ -36,9 +36,8 @@ Creo en aprender **practicando**: montar, romper, arreglar y documentar. Por eso
 
 ## 📫 Contacto
 
-- 📧 [tu-correo@ejemplo.com]
-- 💼 [LinkedIn, si tienes]
+- 📧 hugopedrosaarj@gmail.com
 
 ---
 
-⭐ *"Cada servidor que monto me enseña algo que ningún libro me había contado."*
+⭐ “Aprender, practicar, repetir.”
